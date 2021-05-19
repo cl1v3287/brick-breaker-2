@@ -1,0 +1,14 @@
+canvas{
+    background-color: rgb(9, 255, 0);
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: block;
+    margin: 8 auto;
+}
